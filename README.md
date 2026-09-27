@@ -1,13 +1,13 @@
 <div align="center">
 
-<h1>Wender Morais</h1>
+<img src="./assets/header.svg" alt="Wender Morais, Desenvolvedor Full Stack e IA Aplicada" width="100%">
 
-<p><strong>Desenvolvedor Full Stack e IA Aplicada</strong></p>
-
-<p>Do levantamento com a área ao sistema rodando em produção.</p>
+<br><br>
 
 <a href="https://www.linkedin.com/in/wendermoraislopes/"><img src="https://img.shields.io/badge/LinkedIn-wendermoraislopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<img src="https://img.shields.io/badge/Campo%20Grande-MS-2E4350?style=for-the-badge" alt="Campo Grande, MS">
+<img src="https://img.shields.io/badge/Full%20Stack-React%20%C2%B7%20Node.js-15212A?style=for-the-badge&labelColor=4FD1B8&color=15212A" alt="Full Stack">
+<img src="https://img.shields.io/badge/IA-Aplicada-15212A?style=for-the-badge&labelColor=4FD1B8&color=15212A" alt="IA Aplicada">
+<img src="https://img.shields.io/badge/Aberto%20a-conex%C3%B5es-15212A?style=for-the-badge&labelColor=2E4350&color=15212A" alt="Aberto a conexões">
 
 </div>
 
@@ -26,6 +26,19 @@ Comecei no suporte, passei pela infraestrutura e hoje desenvolvo. Por isso segur
 - **IA aplicada:** IA generativa no desenvolvimento, na documentação e na automação de processos
 - **Infraestrutura:** servidores Linux com nginx, PM2 e Docker, com hardening e padronização de publicação
 
+## Sistemas que construí
+
+<sub>Sistemas internos em produção ou em desenvolvimento. O código é privado; aqui fica o que cada um resolve.</sub>
+
+| Sistema | O que resolve | Destaque técnico |
+|---|---|---|
+| Portal de inteligência de mercado | Notícias, cotações e indicadores do setor em um só lugar para diretoria e comercial | Coleta automatizada e curadoria com IA |
+| Gestão de projetos e sprints | Acompanhamento de projetos da TI por sprint, com visão para gestores | SSO corporativo e perfis de acesso |
+| Vistoria de extintores e hidrantes | Inspeção em campo com registro fotográfico, substituindo planilhas | PWA com uso offline |
+| Painel de cotações de commodities | Cotações de minério, gusa, sucata e coque para decisão da diretoria | Integração com base de dados de mercado |
+| Metas estratégicas (BSC) | Acompanhamento das metas estratégicas da empresa | Painel executivo |
+| Extrator de dados de suprimentos | Dados de compras disponíveis para análise gerencial | ETL de API para Power BI |
+
 ## Stack
 
 **Front-end**
@@ -39,6 +52,10 @@ Comecei no suporte, passei pela infraestrutura e hoje desenvolvo. Por isso segur
 **Infraestrutura e cloud**
 
 <img src="https://skillicons.dev/icons?i=linux,nginx,docker,git,github,gcp,azure" alt="Infraestrutura e cloud">
+
+## Atividade
+
+<img src="https://streak-stats.demolab.com?user=wendermlopes&locale=pt_BR&hide_border=true&background=0E1419&ring=4FD1B8&fire=4FD1B8&currStreakLabel=4FD1B8&sideLabels=E9EEF1&dates=93A4B0&stroke=24323C&currStreakNum=E9EEF1&sideNums=E9EEF1" alt="Sequência de contribuições" width="100%">
 
 ## Trajetória
 
